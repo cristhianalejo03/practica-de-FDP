@@ -10,3 +10,4 @@ public class ejemplojavaminutos {
       System.out.println(minutesPerHour);
       System.out.println(m);
     }
+  }
